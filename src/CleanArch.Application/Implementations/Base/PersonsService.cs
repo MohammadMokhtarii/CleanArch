@@ -1,6 +1,6 @@
-﻿using CleanArch.Domain.Entities;
+﻿using CleanArch.Domain.Base;
 
-namespace CleanArch.Application;
+namespace CleanArch.Application.Base;
 
 public class PersonsService : IPersonsService
 {

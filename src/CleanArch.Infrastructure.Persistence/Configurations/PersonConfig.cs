@@ -1,5 +1,5 @@
-﻿
-using CleanArch.Domain.Consts;
+﻿using CleanArch.Domain;
+using CleanArch.Domain.Base;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Metadata.Builders;
 

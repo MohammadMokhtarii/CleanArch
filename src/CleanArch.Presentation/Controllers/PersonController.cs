@@ -1,5 +1,4 @@
-﻿using CleanArch.Application;
-using Microsoft.AspNetCore.Authorization;
+﻿using CleanArch.Application.Base;
 using Microsoft.AspNetCore.Mvc;
 
 namespace CleanArch.Presentation.Controllers;

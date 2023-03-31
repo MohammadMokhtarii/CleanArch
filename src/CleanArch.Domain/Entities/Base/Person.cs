@@ -1,6 +1,4 @@
-﻿using CleanArch.Domain.Enums;
-
-namespace CleanArch.Domain.Entities;
+﻿namespace CleanArch.Domain.Base;
 public class Person
 {
     public int Id { get; set; }

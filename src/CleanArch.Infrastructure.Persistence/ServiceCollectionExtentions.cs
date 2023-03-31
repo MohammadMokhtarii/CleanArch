@@ -1,4 +1,5 @@
 ﻿using CleanArch.Application;
+using CleanArch.Domain.Base;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;

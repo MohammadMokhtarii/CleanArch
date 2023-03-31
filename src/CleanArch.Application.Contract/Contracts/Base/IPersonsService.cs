@@ -1,4 +1,4 @@
-﻿namespace CleanArch.Application;
+﻿namespace CleanArch.Application.Base;
 
 public interface IPersonsService
 {

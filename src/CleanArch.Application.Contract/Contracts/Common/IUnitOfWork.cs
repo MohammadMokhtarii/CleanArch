@@ -1,4 +1,4 @@
-﻿using CleanArch.Domain.Contracts;
+﻿using CleanArch.Domain.Base;
 
 namespace CleanArch.Application;
 

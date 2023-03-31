@@ -1,4 +1,4 @@
-﻿
+﻿using CleanArch.Domain.Base;
 using Microsoft.EntityFrameworkCore.Infrastructure;
 
 namespace CleanArch.Infrastructure.Persistence;

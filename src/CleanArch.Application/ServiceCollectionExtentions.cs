@@ -1,4 +1,5 @@
-﻿using Microsoft.Extensions.DependencyInjection;
+﻿using CleanArch.Application.Base;
+using Microsoft.Extensions.DependencyInjection;
 
 namespace CleanArch.Application;
 

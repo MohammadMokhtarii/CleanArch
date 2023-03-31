@@ -1,4 +1,4 @@
-﻿namespace CleanArch.Domain.Enums;
+﻿namespace CleanArch.Domain.Base;
 
 public enum PersonType : byte
 {

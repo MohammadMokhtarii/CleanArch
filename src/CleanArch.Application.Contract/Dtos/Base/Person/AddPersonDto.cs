@@ -1,7 +1,7 @@
-﻿using CleanArch.Domain.Enums;
+﻿using CleanArch.Domain.Base;
 using System.ComponentModel.DataAnnotations;
 
-namespace CleanArch.Application;
+namespace CleanArch.Application.Base;
 
 public record AddPersonDto([Required, MaxLength(100)] string Firstname,
                            [Required, MaxLength(100)] string Lastname,

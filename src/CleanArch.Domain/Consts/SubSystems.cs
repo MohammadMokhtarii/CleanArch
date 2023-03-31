@@ -1,4 +1,4 @@
-﻿namespace CleanArch.Domain.Consts;
+﻿namespace CleanArch.Domain;
 
 public static class SubSystems
 {
